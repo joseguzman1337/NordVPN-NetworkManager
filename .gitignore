@@ -5,3 +5,7 @@ dist/
 *.log
 build/
 .*
+
+# macOS system files
+.DS_Store
+._*
